@@ -1,0 +1,21 @@
+{
+  "name": "Wellington CSS - Modal",
+  "version": "0.0.1",
+  "authors": [
+    "James Macfie <james@macfie.co.nz>"
+  ],
+  "description": "CSS only modal",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://jamesmacfie.com",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "css"
+  ],
+  "dependencies": {
+
+  }
+}
