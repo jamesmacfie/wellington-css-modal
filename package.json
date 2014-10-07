@@ -1,6 +1,9 @@
 {
   "name": "wellington-css-modal",
   "version": "0.0.1",
+  "scripts": {
+    "prepublish": "grunt"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-sass": "~0.6.0"
